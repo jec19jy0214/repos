@@ -1,2 +1,5 @@
 class Helloword{
-  //aaabbbbcccc
+
+	int id;
+	String name;
+}
